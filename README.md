@@ -6,7 +6,7 @@ This was a simple tutorial followed from a medium article.
 
 To run the programme
 
-$ Git clone https://github.com/Jaseyacey/PythonCalculator.git
+$ Git clone https://github.com/Jaseyacey/PythonCalculator.git <br>
 $ cd PythonCalculator
 
 $ Python PythonCalculator.py
